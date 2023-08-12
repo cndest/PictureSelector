@@ -1,4 +1,4 @@
 include ':app', ':selector'
 //include ':ucrop',':compress'
 //include ':camerax'
-include ':ijkplayer-java'
+//include ':ijkplayer-java'
